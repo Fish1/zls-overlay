@@ -1,4 +1,5 @@
 [
+{"url":"https://github.com/zigtools/zls/releases/download/0.15.1/zls-x86_64-linux.tar.xz","version":"0.15.1","sha256":"3bb38f522cb23213e8c075ac6b170273fe49b4274b8c12b034cc496407400067","system":"x86_64-linux"},
 {"url":"https://github.com/zigtools/zls/releases/download/0.15.0/zls-aarch64-linux.tar.xz","version":"0.15.0","sha256":"2d1c91382dbbd7a34c3bd87da506e3c2ce6e6582612c2b371f7f97b46c5557d4","system":"aarch64-linux"},
 {"url":"https://github.com/zigtools/zls/releases/download/0.15.0/zls-aarch64-macos.tar.xz","version":"0.15.0","sha256":"76c7a23190f67e67970024065f689c2c49b3c7b0fc16876fb24ef199fb05fc2a","system":"aarch64-darwin"},
 {"url":"https://github.com/zigtools/zls/releases/download/0.15.0/zls-aarch64-windows.zip","version":"0.15.0","sha256":"5765e0fe96674577d4104e1e832205622390b8c1753305be78b9966f8d2d8468","system":"aarch64-windows"},
